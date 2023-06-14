@@ -71,3 +71,11 @@ html{
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.project a{
+
+    text-decoration: none;
+
+    color: #000000;
+
+}
